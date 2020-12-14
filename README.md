@@ -6,5 +6,7 @@ Each row will change color based on the time of day to indicate past, present or
 
 See image below:
 
-Github repo:
-Github pages link:
+![image](https://user-images.githubusercontent.com/73569538/102089845-fd315b80-3dd9-11eb-9054-7b35e794a866.png)
+
+Github repo: https://github.com/jkriese12/Daily-Planner
+Github pages link: https://jkriese12.github.io/Daily-Planner/
